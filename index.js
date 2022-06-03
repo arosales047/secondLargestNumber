@@ -14,6 +14,8 @@ function secondLargestNumber(numbers) {
   return second
 }
 
+//mis huevotes
+
 
 
 let nums = [1, 10, 20, 19, 8, 12, 30]
